@@ -1,4 +1,4 @@
-GameSocket.translationStorage["English"] = {
+    GameSocket.translationStorage["English"] = {
       "username": "Username",
       "kills": "Kills",
       "deaths": "Deaths",
@@ -7,7 +7,7 @@ GameSocket.translationStorage["English"] = {
 
       // alert
       "roomnotexist": "Room does not exist.",
-      "gamefull": "Game is full.",
+      "gamefull": "Room is full.",
       "notenoughmoney": "Not enough coins and/or cash to join game.",
       "guestnowager": "Guests are not allowed to create games with wagers.",
       "alreadyingame": "You are already in a game.",
@@ -16,11 +16,11 @@ GameSocket.translationStorage["English"] = {
       // tutorial
       "tutorialwelcome": "Welcome to tb2d tutorial.",
       "tutorialright": "Press " + GameSocket.keyboardStorage["RIGHT"].key + " to move right.",
-      "tutorialleft": "Press " + GameSocket.keyboardStorage["LEFT"].key + " to move LEFT.",
+      "tutorialleft": "Press " + GameSocket.keyboardStorage["LEFT"].key + " to move left.",
       "tutorialjump": "Press " + GameSocket.keyboardStorage["JUMP"].key +" to jump.",
       "tutorialcrouch":  "Press "+ GameSocket.keyboardStorage["CROUCH"].key +" to crouch.",
       "tutorialcrawl": "Press "+ GameSocket.keyboardStorage["CRAWL"].key +" to crawl.",
-      "tutorialrightclick":  "Right click to use weapon.",
+      "tutorialrightclick":  "Left click to use weapon.",
       "tutorialreload":  "Press "+ GameSocket.keyboardStorage["RELOAD"].key +" to reload weapon.",
       "tutorialnextweapon":  "Press "+ GameSocket.keyboardStorage["NEXT_WEAPON"].key +" to use next weapon.",
       "tutorialpreviousweapon": "Press "+ GameSocket.keyboardStorage["PREVIOUS_WEAPON"].key +" to use previous weapon.",
