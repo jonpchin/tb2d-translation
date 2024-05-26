@@ -102,7 +102,7 @@
        "matcheswon": "Matches Won",
        "flagscaptured": "Flags Captured",
        "signupdate": "Signup Date",
-
+       "playerinventory": "<tr><th>Item</th><th>Damage</th><th>Accuracy</th><th>Ammo</th><th>Reload</th><th>Interval</th><th>Coins</th><th>Cash</th></tr>",
        // keyboard UI
        "left": "Left:",
        "right": "Right:",
@@ -251,9 +251,10 @@
       "matcheswon": "Выиграно матчей",
       "flagscaptured": "Флаги захвачены",
       "signupdate": "Дата регистрации",
+      "playerinventory": "<tr><th>Тип</th><th>Урон</th><th>Точность</th><th>Боеприпасы</th><th>Перезарядка</th><th>Интервал</th><th>Монеты</th><th>Кеш</th></tr>",
 
       // keyboard UI
-      "left": "Левый:",
+      "left": "Влево:",
       "right": "Право:",
       "jump": "Прыгать:",
       "crouch": "Сидеть:",
